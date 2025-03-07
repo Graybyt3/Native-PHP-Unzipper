@@ -33,4 +33,9 @@ __Native PHP web tool for archive extraction and directory compression. It runs 
 __- PHP 5.6+ (PHP 7+ recommended)__  
 __- `ZipArchive` extension enabled__
 
-__FOR MORE INFORMATION AND SUPPORT, CONTACT : https://t.me/rex_cc__
+# 👨🏻‍💻 FOR MORE INFORMATION AND SUPPORT 👨🏻‍💻
+
+[TELEGRAM](https://t.me/rex_cc) | 
+[FACEBOOK](https://www.facebook.com/graybyt3) | 
+[X](https://x.com/gray_byte) | 
+[INSTAGRAM](https://www.instagram.com/gray_byte)
